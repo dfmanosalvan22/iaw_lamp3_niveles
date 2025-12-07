@@ -95,6 +95,11 @@ La infraestructura se organizó en **tres capas**, cada una con subredes y direc
 
 ## Despliegue de Servicios
 
+> ⚠️ Nota temporal: Durante la configuración inicial de los servidores privados se utilizó una **NAT Gateway** para proporcionar acceso a Internet a las instancias en subredes privadas.  
+> Esto permitió descargar actualizaciones, paquetes y configurar servicios como Apache, PHP y WordPress mientras se montaba la infraestructura.  
+> En la práctica final, esta NAT Gateway no es necesaria para el funcionamiento del sitio, ya que las instancias privadas no requieren acceso a Internet para operar.
+
+
 ### 1. Servidor NFS
 - Instalación de NFS y creación de directorio compartido `/var/nfs`.
 - Configuración de exportaciones con permisos de lectura/escritura para la subred privada.
