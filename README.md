@@ -462,13 +462,9 @@ Para verificar que la infraestructura funciona correctamente, realizamos las sig
    - https://dfmanosalvan.es
    - https://www.dfmanosalvan.es
 
-2. Validación del candado verde en el navegador indicando HTTPS activo.
+2. Ejemplo de resultado en el navegador. Validación del candado en el navegador indicando HTTPS activo:
 
-3. Confirmación de que ambos servidores web acceden correctamente a los archivos de WordPress compartidos mediante NFS.
-
-4. Ejemplo de resultado en el navegador:
-
-![Pantallazo de WordPress funcionando](ruta/al/pantallazo.png)
+![Pantallazo de WordPress funcionando](comprobacion_aws.png)
 
 
 
