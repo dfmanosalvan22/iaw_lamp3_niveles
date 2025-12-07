@@ -470,7 +470,8 @@ Para verificar que la infraestructura funciona correctamente, realizamos las sig
 
 Puedes ver un video de la demostración del sitio WordPress funcionando:
 
-[Ver video de comprobación](comprobacion_video.mp4)
+https://youtu.be/3sG4zQg_tbI
+
 
 
 
