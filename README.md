@@ -466,6 +466,13 @@ Para verificar que la infraestructura funciona correctamente, realizamos las sig
 
 ![Pantallazo de WordPress funcionando](comprobacion_aws.png)
 
+3. Video de comprobación
+
+Puedes ver un video de la demostración del sitio WordPress funcionando:
+
+[Ver video de comprobación](comprobacion_video.mp4)
+
+
 
 
 
