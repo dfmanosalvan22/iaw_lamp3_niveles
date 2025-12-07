@@ -454,6 +454,23 @@ Este repositorio contiene:
 
 > Todos los scripts están listos para ejecutarse en un entorno AWS y reproducir la infraestructura descrita.
 
+## Comprobación
+
+Para verificar que la infraestructura funciona correctamente, realizamos las siguientes pruebas:
+
+1. Acceso al sitio WordPress a través del balanceador:
+   - https://dfmanosalvan.es
+   - https://www.dfmanosalvan.es
+
+2. Validación del candado verde en el navegador indicando HTTPS activo.
+
+3. Confirmación de que ambos servidores web acceden correctamente a los archivos de WordPress compartidos mediante NFS.
+
+4. Ejemplo de resultado en el navegador:
+
+![Pantallazo de WordPress funcionando](ruta/al/pantallazo.png)
+
+
 
 
 
